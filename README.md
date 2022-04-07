@@ -42,3 +42,8 @@ yarn build
 ### linkedin Profile
 
 <a href="https://www.linkedin.com/in/ulises-rodr%C3%ADguez/">Ernesto Ulises Rodríguez Barrios</a>
+
+### Github Profile
+
+<a href="https://github.com/UlisesMercer9">Ernesto Ulises Rodríguez</a>
+
