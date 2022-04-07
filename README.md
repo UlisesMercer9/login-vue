@@ -38,3 +38,7 @@ yarn dev
 ```sh
 yarn build
 ```
+
+linkedin Profile
+
+https://www.linkedin.com/in/ulises-rodr%C3%ADguez/
