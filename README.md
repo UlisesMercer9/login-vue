@@ -39,6 +39,6 @@ yarn dev
 yarn build
 ```
 
-linkedin Profile
+### linkedin Profile
 
-https://www.linkedin.com/in/ulises-rodr%C3%ADguez/
+<a href="https://www.linkedin.com/in/ulises-rodr%C3%ADguez/">Ernesto Ulises Rodríguez Barrios</a>
